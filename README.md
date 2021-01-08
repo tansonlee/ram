@@ -2,11 +2,14 @@
 
 ## Implementation of a RAM using Functional Programming Techniques
 
+You can use this implementation online using repl.it here: [RAM](https://repl.it/@TansonL/ram)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [List of Functions](#list-of-functions)
 3. [Example](#example)
 4. [Description of Functions](#description-of-functions)
+5. [How to Use](#how-to-use)
 
 ## Introduction
 
@@ -70,3 +73,10 @@ The output is:
 * outputs the all addresses with their corresponding values in ram
 * **only outputs to address 1000
 
+## How to Use
+
+1. Follow this link to the online editor: [RAM](https://repl.it/@TansonL/ram)
+
+2. Replace the example in main.py with your program.
+
+3. Run the program by clicking the green Run button.
